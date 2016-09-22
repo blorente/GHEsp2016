@@ -18,4 +18,14 @@ changes. PR tiene que tener una lista de __ACCEPTANCE CRITERIA__
 - bebanjo.com/careers
 
 # GitHub
- 
+
+- Check out github projects!
+- Issue (SPECIFICATION) -> Open PR -> Work! -> Somebody closes PR, and automatiacally deploys.
+- Ship it before closing the PR?
+- Check out hubot, handles CI and CD in A/B testing and Prod testing. Uses Hubot to test-deploy into prod FROM THE OPEN PR.
+- Hubot is a CI tool like travis?
+
+- Do not change db scema oftten!!!! Test the schema in prod intenrally
+
+- helaili@github.com
+- victoire@github.com  
