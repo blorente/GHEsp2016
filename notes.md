@@ -11,4 +11,9 @@
 changes. PR tine que tener una lista de __ACCEPTANCE CRITERIA__
 
 ## CD:
-  
+
+- Releases every day or so.
+- Always favor things closer to release. Favor working on PRs over new issues for example. Even with urgent new bugs.
+- Estimation: If a task is going to take more than a week, __you don't know how long it'll be__. And you probably need to slit that.
+- bebanjo.com/careers
+ 
